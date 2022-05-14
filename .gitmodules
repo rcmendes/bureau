@@ -1,3 +1,6 @@
 [submodule "frontend/web"]
 	path = frontend/web
 	url = git@github.com:rcmendes/bureau-web.git
+[submodule "backend/commerce"]
+	path = backend/commerce
+	url = git@github.com:rcmendes/bureau-commerce.git
